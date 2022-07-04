@@ -1,0 +1,49 @@
+DEBUG:h5py._conv:Creating converter from 3 to 5
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+INFO:root:  num objects: 2
+INFO:root:   object number 0
+INFO:root:{'yolo': 'kite', 'vgg_16': 'balloon', 'binary_vgg16': 'None', 'resnet_50': 'None'}
+INFO:root:   object number 1
+INFO:root:{'yolo': 'kite', 'vgg_16': 'balloon', 'binary_vgg16': 'None', 'resnet_50': 'None'}
+DEBUG:h5py._conv:Creating converter from 3 to 5
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+INFO:root:  num objects: 2
+INFO:root:   object number 0
+INFO:root:{'yolo': 'kite', 'vgg_16': 'balloon', 'binary_vgg16': 'None', 'resnet_50': 'balloon'}
+INFO:root:   object number 1
+INFO:root:{'yolo': 'kite', 'vgg_16': 'balloon', 'binary_vgg16': 'None', 'resnet_50': 'balloon'}
+DEBUG:h5py._conv:Creating converter from 3 to 5
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+INFO:root:  num objects: 2
+INFO:root:   object number 0
+DEBUG:h5py._conv:Creating converter from 3 to 5
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+DEBUG:PIL.PngImagePlugin:STREAM b'IHDR' 16 13
+DEBUG:PIL.PngImagePlugin:STREAM b'IDAT' 41 8192
+INFO:root:  num objects: 2
+INFO:root:   object number 0
+INFO:root:{'yolo': 'kite', 'vgg_16': 'balloon', 'binary_vgg16': 'None', 'resnet_50': 'balloon'}
+INFO:root:   object number 1
+INFO:root:{'yolo': 'kite', 'vgg_16': 'balloon', 'binary_vgg16': 'None', 'resnet_50': 'balloon'}
