@@ -144,6 +144,15 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# data base
+detect_balloon_all_the_data_b
+
+#models files directory
+models_files
+
+#yolo files directory
+yolo_file
+
 # PyCharm
 #  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
